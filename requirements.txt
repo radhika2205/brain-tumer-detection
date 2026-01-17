@@ -1,0 +1,8 @@
+torch
+torchvision
+streamlit
+pillow
+kagglehub
+scikit-learn
+seaborn
+matplotlib
