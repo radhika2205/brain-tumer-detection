@@ -13,8 +13,8 @@ This project detects brain tumors from MRI images using a Convolutional Neural N
 
 1.  **Clone the repository** (or download files):
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/radhika2205/brain-tumer-detection.git
+    cd brain-tumer-detection
     ```
 
 2.  **Install Dependencies**:
